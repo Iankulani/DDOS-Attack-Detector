@@ -4,5 +4,8 @@
 
 DDOS attack detector. Cyber security tool used for detecting DDOS attacks.
 
+
 How to run
+
+
 sudo python DDOS-Attack-Detector.py
